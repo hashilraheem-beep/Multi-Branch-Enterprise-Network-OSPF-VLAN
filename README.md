@@ -18,7 +18,7 @@ Each branch contains three departments:
 
 ## Network Topology
 
-![TechNova Network Topology](screenshots/01-network-topology.png)
+![TechNova Network Topology](01-network-topology.png)
 
 ## Technologies Implemented
 
@@ -34,41 +34,52 @@ Each branch contains three departments:
 ## Configuration and Implementation
 
 ### 1. VLAN Configuration
-![VLAN Configuration](screenshots/02-vlan-configuration.png)
+
+![VLAN Configuration](02-vlan-configuration.png)
 
 ### 2. Inter-VLAN Routing
-![Inter-VLAN Routing](screenshots/03-inter-vlan-routing.png)
+
+![Inter-VLAN Routing](03-inter-vlan-routing.png)
 
 ### 3. DHCP Configuration
-![DHCP Configuration](screenshots/04-dhcp-configuration.png)
+
+![DHCP Configuration](04-dhcp-configuration.png)
 
 ### 4. OSPF Routing
-![OSPF Routing](screenshots/05-ospf-routing.png)
+
+![OSPF Routing](05-ospf-routing.png)
 
 ## Network Connectivity Testing
 
 ### 5. Same-Branch Connectivity
-![Same Branch Ping](screenshots/06-ping-same-branch.png)
+
+![Same Branch Ping](06-ping-same-branch.png)
 
 ### 6. Inter-Branch Connectivity
-![Inter Branch Ping](screenshots/07-ping-inter-branch.png)
+
+![Inter Branch Ping](07-ping-inter-branch.png)
 
 ### 7. Server Connectivity
-![Server Connectivity](screenshots/08-server-connectivity.png)
+
+![Server Connectivity](08-server-connectivity.png)
 
 ## Network Security
 
 ### 8. ACL Configuration
-![ACL Security](screenshots/09-acl-security.png)
+
+![ACL Security](09-acl-security.png)
 
 ### 9. ACL Block Test
-![ACL Block Test](screenshots/10-acl-block-test.png)
+
+![ACL Block Test](10-acl-block-test.png)
 
 ### 10. SSH Remote Management
-![SSH Remote Access](screenshots/11-ssh-remote-access.png)
+
+![SSH Remote Access](11-ssh-remote-access.png)
 
 ### 11. Switch Port Security
-![Port Security](screenshots/12-port-security.png)
+
+![Port Security](12-port-security.png)
 
 ## Tools Used
 
@@ -86,6 +97,8 @@ Gained practical experience in enterprise network design, VLAN segmentation, int
 
 ---
 
-**Project:** TechNova – Multi-Branch Enterprise Network Infrastructure  
-**Domain:** Computer Networking | CCNA  
+**Project:** TechNova – Multi-Branch Enterprise Network Infrastructure
+
+**Domain:** Computer Networking | CCNA
+
 **Tool:** Cisco Packet Tracer
